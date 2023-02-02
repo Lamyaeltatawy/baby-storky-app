@@ -1,0 +1,13 @@
+.card {
+    padding: 1rem;
+    box-shadow: 0 2px 8px rgba(222, 0, 242, 0.902);
+    border-radius: 14px;
+    background-color: hsla(0, 0%, 100%, 0.829);
+    width: 100%;
+    position: relative;
+    top: -10rem;
+    margin: 1rem;
+    align-items: center;
+    /*left: -9rem;*/
+    text-align: center;
+}
